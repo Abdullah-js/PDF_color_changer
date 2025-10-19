@@ -1,4 +1,0 @@
-pymupdf
-pillow
-numpy
-tqdm
