@@ -39,7 +39,8 @@ C:\Users\YourName\Documents\output.pdf
 NOTE you should change the input.pdf to how it saved on your computer and for output.pdf you should pick the name something non existed file
 
 
-HOW to change the settings with your desire.
+**HOW to change the settings with your desire.**
+
 <img width="506" height="277" alt="Screenshot 2025-10-19 at 15 49 00" src="https://github.com/user-attachments/assets/2f560e7e-91f4-48d5-aeed-a9e865e776cf" />
 
 
