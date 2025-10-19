@@ -1,7 +1,6 @@
 # colorchangerPDF
 Many existing tools on the website or Google extensions either don’t work or require you to upload your PDFs to a server, something I don’t trust with personal files. So, I created colorchangerPDF, a Python tool that lets you convert any PDF to a dark mode version, safely on your own machine.
-İF YOU LİKE MY PİP PROJECT YOU CAN STAR İT!! <3
-
+if u like my project u should consider star it <3
 
 Requirements 
 ## 💻 Installation
