@@ -5,12 +5,16 @@ if u like my project u should consider star it <3
 Requirements 
 ## 💻 Installation
 
+```
 Install via pip:
-
+```
+```
 pip install colorchangerPDF
+```
 OR 
+```
 pip3 install colorchangerPDF
-
+```
 
 
 How to use and what is the settings of the pip usage
@@ -18,7 +22,7 @@ How to use and what is the settings of the pip usage
 
 colorchangerPDF /path/to/input.pdf -o /path/to/output.pdf
 /path/to/input.pdf → the PDF file you want to convert. This can be:
-
+```
 On Mac: ~/Downloads/yourfile.pdf or /Users/username/Documents/yourfile.pdf
 
 On Windows: C:\Users\YourName\Downloads\yourfile.pdf
@@ -30,6 +34,7 @@ On Linux: ~/Downloads/yourfile.pdf
 ~/Downloads/output.pdf
 
 C:\Users\YourName\Documents\output.pdf
+```
 NOTE you should change the input.pdf to how it saved on your computer and for output.pdf you should pick the name something non existed file
 
 
