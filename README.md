@@ -43,7 +43,6 @@ here is a example of conversion
 
 <img width="567" height="109" alt="Screenshot 2025-10-19 at 15 55 14" src="https://github.com/user-attachments/assets/b71be267-ca8e-49ff-a04b-d9fd58c849ea" />
 <img width="562" height="162" alt="Screenshot 2025-10-19 at 15 57 32" src="https://github.com/user-attachments/assets/7d19257a-181d-4a4d-9e0c-4d14252ffd88" />
-<img width="648" height="599" alt="Screenshot 2025-10-19 at 15 59 51" src="https://github.com/user-attachments/assets/70d48569-cee4-4bba-9120-25186f01d966" />
 <img width="678" height="569" alt="Screenshot 2025-10-19 at 16 02 07" src="https://github.com/user-attachments/assets/605280f8-b840-486b-bb1b-33479c3407b6" />
 
 
