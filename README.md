@@ -3,7 +3,7 @@ Many existing tools on the website or Google extensions either don’t work or r
 if u like my project u should consider star it <3
 
 Requirements 
-## 💻 Installation
+##  Installation on your computer 
 
 ```
 Install via pip:
