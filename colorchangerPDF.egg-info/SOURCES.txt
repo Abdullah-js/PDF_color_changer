@@ -1,0 +1,10 @@
+README.md
+setup.py
+colorchangerPDF/__init__.py
+colorchangerPDF/script.py
+colorchangerPDF.egg-info/PKG-INFO
+colorchangerPDF.egg-info/SOURCES.txt
+colorchangerPDF.egg-info/dependency_links.txt
+colorchangerPDF.egg-info/entry_points.txt
+colorchangerPDF.egg-info/requires.txt
+colorchangerPDF.egg-info/top_level.txt
