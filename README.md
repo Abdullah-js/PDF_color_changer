@@ -36,6 +36,10 @@ showcase Linux: ~/Downloads/yourfile.pdf
 
 C:\Users\YourName\Documents\output.pdf
 ```
+How i use on my computer 
+```
+colorchangerPDF ~/Downloads/qubit.pdf -o ~/Downloads/qubit_dark.pdf
+```
 NOTE you should change the input.pdf to how it saved on your computer and for output.pdf you should pick the name something non existed file
 
 
