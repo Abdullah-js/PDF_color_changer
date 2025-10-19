@@ -19,7 +19,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "colorchangerPDF=colorchangerPDF.script:main"
+        "colorchangerPDF=colorchangerPDF.script:main"
         ]
     },
     classifiers=[

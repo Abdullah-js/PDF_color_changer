@@ -1,4 +1,5 @@
 README.md
+pyproject.toml
 setup.py
 colorchangerPDF/__init__.py
 colorchangerPDF/script.py
