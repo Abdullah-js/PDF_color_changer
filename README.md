@@ -51,7 +51,7 @@ here is a example of conversion
 <img width="678" height="569" alt="Screenshot 2025-10-19 at 16 04 39" src="https://github.com/user-attachments/assets/2bcba79b-0f6d-43e1-a723-c1a9b11a2ff0" />
 
 
-**Converted Dark Mode PDF**
+**Converted PDF**
 
 <img width="678" height="569" alt="Screenshot 2025-10-19 at 16 02 07" src="https://github.com/user-attachments/assets/605280f8-b840-486b-bb1b-33479c3407b6" />
 
