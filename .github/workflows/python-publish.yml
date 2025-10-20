@@ -1,5 +1,3 @@
-# Workflow to build and publish colorchangerPDF to PyPI automatically
-# Triggered by GitHub Release, with automatic versioning
 
 name: colorchangerPDF Release
 
