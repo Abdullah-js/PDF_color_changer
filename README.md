@@ -104,3 +104,5 @@ if it say NOT FOUND run this command
 ```
 /opt/homebrew/opt/python@3.11/bin/python3.11 -m pip install --force-reinstall colorchangerPDF
 ```
+
+dark mode PDF
