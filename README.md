@@ -69,3 +69,38 @@ here is a example of conversion
 <img width="562" height="162" alt="Screenshot 2025-10-19 at 15 57 32" src="https://github.com/user-attachments/assets/7d19257a-181d-4a4d-9e0c-4d14252ffd88" />
 
 
+**Common issue and How to fix them**
+
+
+**common issue**
+```
+If you see this error when running colorchangerPDF:
+```
+```
+Traceback (most recent call last):
+  File "/opt/homebrew/bin/colorchangerPDF", line 3, in <module>
+    from colorchangerPDF.script import main
+ModuleNotFoundError: No module named 'colorchangerPDF'
+```
+**how to fix**
+**The CLI script might be using a different Python environment. Reinstall the package using the Python interpreter that the CLI uses**
+```
+/opt/homebrew/opt/python@3.11/bin/python3.11 -m pip install --force-reinstall colorchangerPDF
+```
+
+then run colorchangerPDF
+if it is not still working
+If still not working, manually run
+```
+python3 -m colorchangerPDF.script
+```
+
+To check if the package is installed
+```
+pip show colorchangerPDF
+```
+
+if it say NOT FOUND run this command 
+```
+/opt/homebrew/opt/python@3.11/bin/python3.11 -m pip install --force-reinstall colorchangerPDF
+```
