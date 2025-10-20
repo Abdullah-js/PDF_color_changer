@@ -74,10 +74,10 @@ here is a example of conversion
 
 **common issue**
 ```
-If you see this error when running colorchangerPDF:
+If you see this error when running colorchangerPDF
 ```
+Traceback (most recent) 
 ```
-Traceback (most recent call last):
   File "/opt/homebrew/bin/colorchangerPDF", line 3, in <module>
     from colorchangerPDF.script import main
 ModuleNotFoundError: No module named 'colorchangerPDF'
