@@ -1,6 +1,5 @@
 
-name: colorchangerPDF Release
-
+name: colorchangerPDF 
 on:
   release:
     types: [published]
