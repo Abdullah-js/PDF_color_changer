@@ -59,6 +59,11 @@ here is a example of conversion
 
 <img width="678" height="569" alt="Screenshot 2025-10-19 at 16 02 07" src="https://github.com/user-attachments/assets/605280f8-b840-486b-bb1b-33479c3407b6" />
 
+**Here is a another example of how u could use it this will make it light gray**
+```
+colorchangerPDF /Users/emiralakus/Downloads/ESLII_print12_toc.pdf -o /Users/emiralakus/Downloads/ESLII_gray_paper.pdf -bg "#CCCCCC" -tc "#000000" -c 1.2 --color-threshold 10 --photo-threshold 0.95 -j 8
+```
+<img width="552" height="421" alt="Screenshot 2025-10-23 at 12 09 52" src="https://github.com/user-attachments/assets/eabddc8c-c7f3-4f61-a130-4ca9fc5a66ff" />
 
 
 
